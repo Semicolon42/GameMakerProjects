@@ -9,6 +9,7 @@
     {"id":{"name":"ChatterboxIsStopped","path":"scripts/ChatterboxIsStopped/ChatterboxIsStopped.yy",},"order":2,},
     {"id":{"name":"scribble_font_bake_shader","path":"scripts/scribble_font_bake_shader/scribble_font_bake_shader.yy",},"order":1,},
     {"id":{"name":"scr_print_console","path":"scripts/scr_print_console/scr_print_console.yy",},"order":0,},
+    {"id":{"name":"obj_text_button","path":"objects/obj_text_button/obj_text_button.yy",},"order":1,},
     {"id":{"name":"ChatterboxGetCurrentSource","path":"scripts/ChatterboxGetCurrentSource/ChatterboxGetCurrentSource.yy",},"order":4,},
     {"id":{"name":"ChatterboxGetVisited","path":"scripts/ChatterboxGetVisited/ChatterboxGetVisited.yy",},"order":9,},
     {"id":{"name":"scribble_typewriter_add_character_delay","path":"scripts/scribble_typewriter_add_character_delay/scribble_typewriter_add_character_delay.yy",},"order":2,},
@@ -30,7 +31,9 @@
     {"id":{"name":"__scribble_config_macros","path":"scripts/__scribble_config_macros/__scribble_config_macros.yy",},"order":2,},
     {"id":{"name":"__ChatterboxClassText","path":"scripts/__ChatterboxClassText/__ChatterboxClassText.yy",},"order":3,},
     {"id":{"name":"__shd_scribble","path":"shaders/__shd_scribble/__shd_scribble.yy",},"order":13,},
+    {"id":{"name":"fnt_firstTestFont","path":"fonts/fnt_firstTestFont/fnt_firstTestFont.yy",},"order":0,},
     {"id":{"name":"__ChatterboxSystem","path":"scripts/__ChatterboxSystem/__ChatterboxSystem.yy",},"order":6,},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
     {"id":{"name":"__scribble_class_null_element","path":"scripts/__scribble_class_null_element/__scribble_class_null_element.yy",},"order":5,},
     {"id":{"name":"ChatterboxVariableSet","path":"scripts/ChatterboxVariableSet/ChatterboxVariableSet.yy",},"order":1,},
     {"id":{"name":"scribble_font_combine","path":"scripts/scribble_font_combine/scribble_font_combine.yy",},"order":2,},
@@ -78,6 +81,7 @@
     {"id":{"name":"ChatterboxLoadFromString","path":"scripts/ChatterboxLoadFromString/ChatterboxLoadFromString.yy",},"order":5,},
     {"id":{"name":"__scribble_config_default_template","path":"scripts/__scribble_config_default_template/__scribble_config_default_template.yy",},"order":1,},
     {"id":{"name":"__ChatterboxExpressionFuncs","path":"scripts/__ChatterboxExpressionFuncs/__ChatterboxExpressionFuncs.yy",},"order":5,},
+    {"id":{"name":"obj_text_box","path":"objects/obj_text_box/obj_text_box.yy",},"order":2,},
     {"id":{"name":"__ChatterboxEvaluate","path":"scripts/__ChatterboxEvaluate/__ChatterboxEvaluate.yy",},"order":4,},
     {"id":{"name":"__scribble_class_page","path":"scripts/__scribble_class_page/__scribble_class_page.yy",},"order":7,},
     {"id":{"name":"ChatterboxAddFindReplace","path":"scripts/ChatterboxAddFindReplace/ChatterboxAddFindReplace.yy",},"order":0,},
@@ -149,6 +153,7 @@
   ],
   "IncludedFiles": [
     {"CopyToMask":153157610357391598,"filePath":"datafiles","resourceVersion":"1.0","name":"Test.yarn","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"fnt_firstTestFont.yy","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
     "IDEVersion": "2.3.2.560",

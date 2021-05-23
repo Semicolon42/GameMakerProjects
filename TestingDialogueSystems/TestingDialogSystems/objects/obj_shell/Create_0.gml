@@ -1,5 +1,7 @@
 isOpen = true;
 isAutocompleteOpen = false;
+openKey=vk_tab
+openModifiers=[]
 
 shellSurface = noone;
 scrollSurface = noone;
