@@ -9,6 +9,7 @@
     {"id":{"name":"ChatterboxIsStopped","path":"scripts/ChatterboxIsStopped/ChatterboxIsStopped.yy",},"order":2,},
     {"id":{"name":"scribble_font_bake_shader","path":"scripts/scribble_font_bake_shader/scribble_font_bake_shader.yy",},"order":1,},
     {"id":{"name":"scr_print_console","path":"scripts/scr_print_console/scr_print_console.yy",},"order":0,},
+    {"id":{"name":"obj_text_box_yarn_controller","path":"objects/obj_text_box_yarn_controller/obj_text_box_yarn_controller.yy",},"order":3,},
     {"id":{"name":"obj_text_button","path":"objects/obj_text_button/obj_text_button.yy",},"order":1,},
     {"id":{"name":"ChatterboxGetCurrentSource","path":"scripts/ChatterboxGetCurrentSource/ChatterboxGetCurrentSource.yy",},"order":4,},
     {"id":{"name":"ChatterboxGetVisited","path":"scripts/ChatterboxGetVisited/ChatterboxGetVisited.yy",},"order":9,},
@@ -20,6 +21,7 @@
     {"id":{"name":"__scribble_class_element","path":"scripts/__scribble_class_element/__scribble_class_element.yy",},"order":0,},
     {"id":{"name":"MSDF_Guide","path":"notes/MSDF_Guide/MSDF_Guide.yy",},"order":7,},
     {"id":{"name":"scribble_Methods","path":"notes/scribble_Methods/scribble_Methods.yy",},"order":9,},
+    {"id":{"name":"scr_yarn_post_processing_name_color","path":"scripts/scr_yarn_post_processing_name_color/scr_yarn_post_processing_name_color.yy",},"order":1,},
     {"id":{"name":"scribble_font_set_style_family","path":"scripts/scribble_font_set_style_family/scribble_font_set_style_family.yy",},"order":5,},
     {"id":{"name":"__scribble_class_vertex_buffer","path":"scripts/__scribble_class_vertex_buffer/__scribble_class_vertex_buffer.yy",},"order":9,},
     {"id":{"name":"__ChatterboxClassNode","path":"scripts/__ChatterboxClassNode/__ChatterboxClassNode.yy",},"order":1,},
@@ -74,7 +76,6 @@
     {"id":{"name":"scribble_font_scale","path":"scripts/scribble_font_scale/scribble_font_scale.yy",},"order":4,},
     {"id":{"name":"ChatterboxSourceNodeCount","path":"scripts/ChatterboxSourceNodeCount/ChatterboxSourceNodeCount.yy",},"order":6,},
     {"id":{"name":"__scribble_config_colours","path":"scripts/__scribble_config_colours/__scribble_config_colours.yy",},"order":0,},
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
     {"id":{"name":"ChatterboxGetCurrent","path":"scripts/ChatterboxGetCurrent/ChatterboxGetCurrent.yy",},"order":3,},
     {"id":{"name":"ChatterboxGetOptionCount","path":"scripts/ChatterboxGetOptionCount/ChatterboxGetOptionCount.yy",},"order":7,},
     {"id":{"name":"ChatterboxSourceNodeExists","path":"scripts/ChatterboxSourceNodeExists/ChatterboxSourceNodeExists.yy",},"order":7,},
@@ -152,8 +153,8 @@
     {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
   ],
   "IncludedFiles": [
-    {"CopyToMask":153157610357391598,"filePath":"datafiles","resourceVersion":"1.0","name":"Test.yarn","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"fnt_firstTestFont.yy","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"Test.yarn","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
     "IDEVersion": "2.3.2.560",
