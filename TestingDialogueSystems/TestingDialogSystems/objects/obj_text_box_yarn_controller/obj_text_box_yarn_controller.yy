@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_yarn_textbox_obj_icon",
+    "path": "sprites/spr_yarn_textbox_obj_icon/spr_yarn_textbox_obj_icon.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -27,8 +30,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Mine/Objects.yy",
+    "name": "Text Boxes",
+    "path": "folders/Text Boxes.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_text_box_yarn_controller",

@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "DeveloperConsole",
-    "path": "folders/Imported/DeveloperConsole.yy",
+    "name": "Scripts",
+    "path": "folders/Mine/Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "scr_print_console",
+  "name": "scr_init_everything",
   "tags": [],
   "resourceType": "GMScript",
 }

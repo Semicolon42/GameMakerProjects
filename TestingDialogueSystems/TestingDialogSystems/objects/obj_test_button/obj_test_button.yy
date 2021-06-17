@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite1",
-    "path": "sprites/Sprite1/Sprite1.yy",
+    "name": "spr_simple_button",
+    "path": "sprites/spr_simple_button/spr_simple_button.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Mine/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_text_button",
+  "name": "obj_test_button",
   "tags": [],
   "resourceType": "GMObject",
 }

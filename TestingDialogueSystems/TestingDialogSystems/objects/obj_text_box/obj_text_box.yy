@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_text_box_obj_icon",
+    "path": "sprites/spr_text_box_obj_icon/spr_text_box_obj_icon.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -24,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Mine/Objects.yy",
+    "name": "Text Boxes",
+    "path": "folders/Text Boxes.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_text_box",

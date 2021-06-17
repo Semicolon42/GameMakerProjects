@@ -127,8 +127,8 @@
   "canGenerateBitmap": true,
   "maintainGms1Font": false,
   "parent": {
-    "name": "Imported",
-    "path": "folders/Imported.yy",
+    "name": "DeveloperConsole",
+    "path": "folders/Imported/DeveloperConsole.yy",
   },
   "resourceVersion": "1.0",
   "name": "font_console",

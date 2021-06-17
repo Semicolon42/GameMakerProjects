@@ -12,13 +12,8 @@ if(mouse_check_button_pressed(mb_left)) {
 	if (instance_position(mouse_x, mouse_y, self.id)) {
 	    image_index = 1
 		
-		if(ChatterboxIsWaiting(chatbox)) {
-			ChatterboxContinue(chatbox)
-			currentLine = ChatterboxGetContent(chatbox, 0)
-			scr_print_console(currentLine)
-			with(obj_text_box) { 
-			    array_push(lines, other.currentLine)
-			}
+		if(!instance_exists(obj_text_box)) {
+			instance_create_depth(x + 50, y, depth-1, obj_text_box_yarn_controller)	
 		}
 	}
 }
